@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.jboss.ide.eclipse.as.core.singledeployable.deployableList=src/main/resources/defaultPackage.ProcesoA.ftl\nsrc/main/resources/logback-test.xml\nsrc/main/resources/RegistrarDocumento.ftl\nsrc/main/resources/AprobarDocumento.ftl\n
